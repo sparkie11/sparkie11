@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gautam wise</h1>
-<h3 align="center">Simple and Precision Developer from India</h3>
+<h3 align="center">I design and build Robust Software products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparkie11&label=Profile%20views&color=0e75b6&style=flat" alt="sparkie11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **react,vue,codeigniter and next js**
 
